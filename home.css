@@ -1,0 +1,40 @@
+h1
+{
+	color: red;
+	margin-top: 25px;
+}
+
+a
+{
+    color: orange;
+    cursor: pointer blue;
+}
+button
+{
+    color: gray;
+    border-bottom-color: black;
+    background-color: white;
+}
+input
+{
+    color: blue;
+    border-bottom-color: black;
+    background-color: greenyellow;
+    margin-left: 300px;
+    margin-top: 10px;
+    cursor: pointer
+}
+body
+{
+	background-color: black;
+}
+
+#carte
+{
+
+		width: 600px;
+		margin:0 auto;
+		background-color: white;
+		text-align: center;
+		align-content: center;
+}
